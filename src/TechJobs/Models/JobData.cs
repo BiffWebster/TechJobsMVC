@@ -3,6 +3,7 @@ using System.IO;
 using System.Reflection;
 using System.Text;
 
+
 namespace TechJobs.Models
 {
     class JobData
